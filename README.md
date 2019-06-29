@@ -3,13 +3,21 @@ This directory contains the most important part. That is the code for the AI pow
 # Modules needed
 
   1.pyttsx3
+  
   2.datetime
+  
   3.speech_recognition
+  
   4.wikipedia
+  
   5.webbrowser
+  
   6.os
+  
   7.smtplib
+  
   8.random
+  
   9.cv2
 # Steps to install modules
 
