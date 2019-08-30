@@ -8,7 +8,7 @@ This directory contains the most important part. That is the code for the AI pow
     webbrowser
     os
     smtplib
-    random
+    random 
     cv2
 # Steps to install modules
 
