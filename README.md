@@ -14,7 +14,7 @@ This directory contains the most important part. That is the code for the AI pow
 
     pip install pyttsx3 
     pip install speechRecognition
-    pip install wikipedia
+    pip install wikipedia 
     pip install opencv-python
 # Very important steps
     Create a new file named 'mail.txt' . 
