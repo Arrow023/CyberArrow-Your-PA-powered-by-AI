@@ -9,7 +9,7 @@ This directory contains the most important part. That is the code for the AI pow
     os
     smtplib 
     random 
-    cv2  
+    cv2   
 # Steps to install modules
 
     pip install pyttsx3 
