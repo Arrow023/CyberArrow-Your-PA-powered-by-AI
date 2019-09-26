@@ -10,7 +10,7 @@ This directory contains the most important part. That is the code for the AI pow
     smtplib 
     random
     cv2   
-# Steps to install modules
+# Steps to install modules 
 
     pip install pyttsx3 
     pip install speechRecognition
