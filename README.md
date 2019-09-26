@@ -23,3 +23,4 @@ This directory contains the most important part. That is the code for the AI pow
     goto -> 'https://myaccount.google.com/lesssecureapps' and enable the tick mark to make the program to be able to send the messages.
  
   
+ 
