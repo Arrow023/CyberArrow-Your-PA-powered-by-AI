@@ -3,7 +3,7 @@ This directory contains the most important part. That is the code for the AI pow
 # Modules needed    
     pyttsx3  
     datetime 
-    speech_recognition   
+    speech_recognition  
     wikipedia   
     webbrowser     
     os
