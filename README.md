@@ -5,7 +5,7 @@ This directory contains the most important part. That is the code for the AI pow
     datetime
     speech_recognition 
     wikipedia 
-    webbrowser    
+    webbrowser   
     os
     smtplib
     random
