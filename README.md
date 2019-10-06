@@ -4,7 +4,7 @@ This directory contains the most important part. That is the code for the AI pow
     pyttsx3
     datetime
     speech_recognition 
-    wikipedia  
+    wikipedia 
     webbrowser
     os
     smtplib
