@@ -6,7 +6,7 @@ This directory contains the most important part. That is the code for the AI pow
     speech_recognition 
     wikipedia  
     webbrowser 
-    os 
+    os
     smtplib
     random
     cv2  
